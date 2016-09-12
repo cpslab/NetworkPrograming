@@ -1,2 +1,3 @@
 # ネットワークプログラミング演習
-![test](https://drive.google.com/file/d/0Byb9iZJldEGWeVJYZFhGSEZpMWc/view?usp=sharing)
+[IntelliJ How to Install](./docs/intellij_install.md)
+[IntelliJ HelloWolrd](./docs/intellij_install.md)
